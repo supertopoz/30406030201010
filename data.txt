@@ -1,0 +1,473 @@
+{"topicId":343,"topicTitle":"About the Sendbird Chat UIKit category"}
+{"topicId":6921,"topicTitle":"iOS UIKit build issues in latest version"}
+{"topicId":6916,"topicTitle":"Full attached image not loading in place of thumbnail"}
+{"topicId":6914,"topicTitle":"Build errors while using send bird live + chats + calls all together"}
+{"topicId":6907,"topicTitle":"Preventing Keyboard from dismissing when message sent"}
+{"topicId":6877,"topicTitle":"OG tag image quality in chats is very poor"}
+{"topicId":6896,"topicTitle":"Custom animation does not disappear when using renderPlaceHolderLoading"}
+{"topicId":6884,"topicTitle":"React UIKit v3 error - TypeError: Cannot read properties of undefined (reading 'channelUrl')"}
+{"topicId":6177,"topicTitle":"React UIKit v3 warning - Replace fill-available to stretch, because spec had been changed"}
+{"topicId":6811,"topicTitle":"My sendbird UI kit is not showing channels that are created by API"}
+{"topicId":6840,"topicTitle":"Sendbird sdk not working wtih latest version of React Native (0.71.4"}
+{"topicId":6827,"topicTitle":"FAQ File Cannot Upload"}
+{"topicId":6837,"topicTitle":"Help please with createMessageCollection pagination"}
+{"topicId":6674,"topicTitle":"Replay in thread - message not found"}
+{"topicId":6834,"topicTitle":"In Channel UI, Voice icon and File Icon are misaligned"}
+{"topicId":6816,"topicTitle":"Why when i pass on props queries={{ channelListQuery: { includeEmpty: true } }} app is stuck and make endless requests"}
+{"topicId":6475,"topicTitle":"Why I can't upload faq file to the bot"}
+{"topicId":6815,"topicTitle":"How to get group channel name and photo url in custom header of ChannelFragment in Uikit android"}
+{"topicId":6802,"topicTitle":"SenBird Chat UI Kit Connection Issue"}
+{"topicId":6784,"topicTitle":"queryCreator not working for createGroupChannelFragment with sendbird/uikit-react-native@2.3.0"}
+{"topicId":3722,"topicTitle":"Preventing pop to root when leaving channel"}
+{"topicId":6781,"topicTitle":"Listen to message receive on React"}
+{"topicId":6712,"topicTitle":"Message listener"}
+{"topicId":6643,"topicTitle":"Sendbird Push Tokens not working"}
+{"topicId":6691,"topicTitle":"Vue tutorial - sdk is undefined"}
+{"topicId":4765,"topicTitle":"How to display total unread message count in react?"}
+{"topicId":6653,"topicTitle":"Error code 400304: Application is not found"}
+{"topicId":6679,"topicTitle":"Passing view at `renderMessageInput` prop on `OpenChannel` component is not being rendered"}
+{"topicId":6689,"topicTitle":"Code=900030 Error"}
+{"topicId":1753,"topicTitle":"SBConversation not scrolling down on load"}
+{"topicId":5142,"topicTitle":"SyntaxError: Cannot use import statement outside a module"}
+{"topicId":3768,"topicTitle":"Can i share the current location as a message just like Whatsapp is doing"}
+{"topicId":6272,"topicTitle":"Scroll stop working when setting up a custom listComponent"}
+{"topicId":6536,"topicTitle":"Build is not happening for release"}
+{"topicId":6617,"topicTitle":"Should I customize renderMessage Component to render svg?"}
+{"topicId":6614,"topicTitle":"Issuing token for user results in error \"Something went wrong\""}
+{"topicId":6526,"topicTitle":"Is it possible to \"upvote\" messages in an open channel and allow other users to see how many upvotes its gotten?"}
+{"topicId":5819,"topicTitle":"onSendFileMessage not working when type is set to \"image\""}
+{"topicId":3933,"topicTitle":"[UIKIT JS React] When loading a channel with isSuper = true, reaction emoji's are disabled"}
+{"topicId":5833,"topicTitle":"Sendbird react V3: TypeError: channel.sendUserMessage is not a function"}
+{"topicId":6522,"topicTitle":"For push notification payload"}
+{"topicId":6233,"topicTitle":"Database Crashes"}
+{"topicId":6513,"topicTitle":"Sendbird UIKit v2 for Android: Can you have chat screen inside a Fragment?"}
+{"topicId":6501,"topicTitle":"Update the Package.swift file to include sources"}
+{"topicId":6494,"topicTitle":"How to deselect the selected channel using ChannelListProvider & ChannelListUI"}
+{"topicId":6468,"topicTitle":"How to run an effect (callback) AFTER message is sent (successfully)"}
+{"topicId":6423,"topicTitle":"Aria-lables, reaction urls , sendbird icon svgs, and announcements"}
+{"topicId":6466,"topicTitle":"Using filtered list feature isn't allowing me to select any users"}
+{"topicId":6420,"topicTitle":"Start messages from the top of the chat"}
+{"topicId":6461,"topicTitle":"Getting a couldn't open file Toast error when I click on a video"}
+{"topicId":6234,"topicTitle":"TS error in @sendbird/uikit-chat-hooks/src/common/useUserList.ts"}
+{"topicId":6426,"topicTitle":"Text localization is not complete?"}
+{"topicId":6412,"topicTitle":"Channel Messages Not Updating Despite ChannelList Updating"}
+{"topicId":6390,"topicTitle":"Contributing to the UiKits in GitHub?"}
+{"topicId":4671,"topicTitle":"Programmatically set channel in Channel List (v3 beta.2)"}
+{"topicId":6424,"topicTitle":"Android UIKit's BaseFragment isActive() / isFragmentAlive() methods are not comprehensive and still allow crashes"}
+{"topicId":6414,"topicTitle":"Nested Group Channels"}
+{"topicId":6393,"topicTitle":"FileProvider manifest merger conflict with other dependencies"}
+{"topicId":6377,"topicTitle":"Sendbird UIKit ReactToPollOption"}
+{"topicId":6346,"topicTitle":"React UI Kit: Add User Event Handler"}
+{"topicId":6316,"topicTitle":"[iOS] How can I delete certain Channel Settings table view Cells?"}
+{"topicId":6289,"topicTitle":"My reactions are not loading in iOS native"}
+{"topicId":6303,"topicTitle":"Is there any plan for Flutter-UI kit?"}
+{"topicId":5446,"topicTitle":"Chat won’t refresh after applying messageTypeFilters"}
+{"topicId":6326,"topicTitle":"Push notifications for online user"}
+{"topicId":6319,"topicTitle":"@sendbird/uikit-react, TypeError: Cannot read properties of undefined (reading 'publish')"}
+{"topicId":6312,"topicTitle":"Placing chat members in 'read-only mode'"}
+{"topicId":6310,"topicTitle":"Overriding GroupViewController for UIKit"}
+{"topicId":5933,"topicTitle":"Issue using Sendbird UIKit SDK on Xcode 14.0.1 with Swift 5.7"}
+{"topicId":6300,"topicTitle":"동영상을 채팅방에 보낸 후 재생이 안 됩니다"}
+{"topicId":6280,"topicTitle":"React UI Kit add search filter to InviteUsers component"}
+{"topicId":6253,"topicTitle":"Navigation title color for SwiftUI"}
+{"topicId":6252,"topicTitle":"Changing navigation title color on SwiftUI"}
+{"topicId":3610,"topicTitle":"Change channel name format"}
+{"topicId":5967,"topicTitle":"iOS: Correct initialisation"}
+{"topicId":6243,"topicTitle":"Sendbird uikit for RN 0.61.5"}
+{"topicId":6193,"topicTitle":"Jetpack Compose support via UiKit"}
+{"topicId":1956,"topicTitle":"Trouble with selecting users when creating a new channel"}
+{"topicId":6156,"topicTitle":"Group Chat messages list show infinite spinner"}
+{"topicId":6158,"topicTitle":"Users cannot leave channel"}
+{"topicId":6174,"topicTitle":"자동완성 관련 문의드립니다,"}
+{"topicId":6166,"topicTitle":"React Native UIKit filtering by metadata"}
+{"topicId":6149,"topicTitle":"Crash when choosing the option \"Reply in Thread\""}
+{"topicId":6140,"topicTitle":"Connection must be made error in Android chat SDK"}
+{"topicId":6132,"topicTitle":"Error : Not found GroupChannelModule"}
+{"topicId":6072,"topicTitle":"Remove/replace searchIcon button in ChannelListHeader"}
+{"topicId":6125,"topicTitle":"amIBanned not set to true when user is banned"}
+{"topicId":6116,"topicTitle":"Avoid tinting user placeholder images in SBUCoverImageView"}
+{"topicId":6108,"topicTitle":"Override the \"Invite Users\" button in the ChannelSettings window"}
+{"topicId":6097,"topicTitle":"Set the listing order of the reaction emoji options"}
+{"topicId":4491,"topicTitle":"React UIKit v3 error - type declaration for typescript"}
+{"topicId":2971,"topicTitle":"Getting a \"Invalid 'url' is undefined\" error when using ChannelList"}
+{"topicId":6028,"topicTitle":"Chat conversation UI jumps when old messages are loaded"}
+{"topicId":6017,"topicTitle":"UserId filter on channels doesn't work when new message arrives"}
+{"topicId":6013,"topicTitle":"Sending Custom object in chat"}
+{"topicId":6009,"topicTitle":"Add Search Feature in Channel List Fragment"}
+{"topicId":5800,"topicTitle":"How can I split up the SBChannelList and SBConversation components into their own views?"}
+{"topicId":5984,"topicTitle":"Can not filter ChannelList by metadat in Ui-kit/react"}
+{"topicId":5980,"topicTitle":"Reactions & Reply to text messages (React Native)"}
+{"topicId":5968,"topicTitle":"Is it possible to allow file uploading for gif, xls, ppt, pptx, doc, docx"}
+{"topicId":5960,"topicTitle":"Senbdird UIKit - MessageSearchProvider not working properly"}
+{"topicId":5916,"topicTitle":"Group channel filter by channel URLs is ignored"}
+{"topicId":5925,"topicTitle":"Organizer stops working with the latest SendBird iOS SDKs"}
+{"topicId":5917,"topicTitle":"Group channel flickering when switching channel (SwiftUI)"}
+{"topicId":5915,"topicTitle":"Removing EXIF Data From Image Messages"}
+{"topicId":5884,"topicTitle":"Multiple sendbird application in single app"}
+{"topicId":5021,"topicTitle":"UIKit declares high risk / sensitive permission against Google Play policy"}
+{"topicId":5868,"topicTitle":"Camera images in chat is Failed to allocate and crash"}
+{"topicId":5878,"topicTitle":"How to open specific channel by channel url along with the entire channel list"}
+{"topicId":5808,"topicTitle":"Filtering chats by chat name OR by members nickname"}
+{"topicId":5829,"topicTitle":"Failed to execute 'send' on 'WebSocket': Still in CONNECTING state"}
+{"topicId":5820,"topicTitle":"Is `usePlatformService().fileService.openCamera()` not available on development?"}
+{"topicId":5199,"topicTitle":"SendbirdError: Invalid parameters"}
+{"topicId":5812,"topicTitle":"com.sendbird.uikit.databinding.SbViewMessageInputBinding.etInputText' on a null object reference"}
+{"topicId":5766,"topicTitle":"OpenChatChannel renderInput bug (UIKit React)"}
+{"topicId":5750,"topicTitle":"Hide the \"All new messages\" and \"Mentions Only\" radio buttons on the Notifications screen"}
+{"topicId":5739,"topicTitle":"iOS: How can we expand the Navigation Bar in Chat to add extra content or add sticky bar in Chat"}
+{"topicId":5696,"topicTitle":"Updated send bird and Xcode 14 getting different definitions in different modules error"}
+{"topicId":5617,"topicTitle":"Problem with chat SDK for react native app"}
+{"topicId":5025,"topicTitle":"Sendbird UIKit React v2 (with NextJS) error: Command received no ack"}
+{"topicId":5721,"topicTitle":"React Native UIKit renderMessage custom message"}
+{"topicId":5728,"topicTitle":"How to get channel object by channel url in react UI kit"}
+{"topicId":5711,"topicTitle":"Custom Leave Group Page on different View"}
+{"topicId":5704,"topicTitle":"Error While Integration Php SDK"}
+{"topicId":5679,"topicTitle":"400108 에러코드는 어떤 경우에 발생하나요?"}
+{"topicId":5664,"topicTitle":"React ui kit v3 - custom infinite scroll for channel list?"}
+{"topicId":5480,"topicTitle":"React Uikit ChannelList 컴포넌트"}
+{"topicId":5655,"topicTitle":"React UIKit v3 error - SendbirdError: Invalid parameters"}
+{"topicId":5650,"topicTitle":"Is there a function to allow users to join a channel with React Native UIKit?"}
+{"topicId":5646,"topicTitle":"Getting error while message search"}
+{"topicId":5638,"topicTitle":"User List when creating channel"}
+{"topicId":5610,"topicTitle":"Please makes OgtagView, AutoLinkTextView to public"}
+{"topicId":5528,"topicTitle":"\"queryCreator\" props will not affect the query result"}
+{"topicId":5597,"topicTitle":"Simply inherit the UIKit-defined styles, then override the res/values/styles.xml file from the list below"}
+{"topicId":5301,"topicTitle":"Reactjs - react ui kit v3 Sometimes able to connect sendbird server and on page refresh not able to connect with same appId, userID"}
+{"topicId":5592,"topicTitle":"Unable to load Chat Rooms - Something went wrong"}
+{"topicId":5591,"topicTitle":"Hide Profile Icon in Group Chat when members are only 2"}
+{"topicId":5574,"topicTitle":"isReactionEnabled cannot use with SuperGroup [React]"}
+{"topicId":2808,"topicTitle":"Star & forward message"}
+{"topicId":5557,"topicTitle":"Want to integrate a notification bar with Message"}
+{"topicId":5541,"topicTitle":"How to assign title to Empty view in SBUgroupchannel in iOS from customviewcontroller"}
+{"topicId":5525,"topicTitle":"PhotoViewAttacher Bug in PhotoViewFragment"}
+{"topicId":5394,"topicTitle":"Uncaught ReferenceError: process is not defined in React UIKit v3"}
+{"topicId":5521,"topicTitle":"[React UI Kit v3] can i set unread in Group ChannelProvider?"}
+{"topicId":5515,"topicTitle":"Can users be restricted to view open channels"}
+{"topicId":5488,"topicTitle":"Unable to resolve module ./env from App.tsx:"}
+{"topicId":4474,"topicTitle":"ChannelList UIKit component triggering too many requests when scrolling"}
+{"topicId":5243,"topicTitle":"React UIKit v3 error - ReferenceError: Element is not defined"}
+{"topicId":5455,"topicTitle":"getLeaveGroupChannel is not exposed in Typescript"}
+{"topicId":3724,"topicTitle":"UIKit version for VueJs?"}
+{"topicId":5383,"topicTitle":"React Uikit V2 기능 구현 관련 문의입니다"}
+{"topicId":5336,"topicTitle":"Android SBUIKIT collection.loadMore() takes infinite time"}
+{"topicId":863,"topicTitle":"Add Search Feature in Users List Modal in UIKit"}
+{"topicId":2608,"topicTitle":"Deleted message has no trace in group channel"}
+{"topicId":5366,"topicTitle":"GroupChannelListViewController with joined only member state filter"}
+{"topicId":5347,"topicTitle":"How to disable the attachement button in the SBUGroupchannelviewcontroller from a custom view controlelr?"}
+{"topicId":3737,"topicTitle":"Channels are loaded endlessly"}
+{"topicId":5163,"topicTitle":"App crashes when navigating away from chat"}
+{"topicId":4766,"topicTitle":"UI Kit v3.5 beta does not work with Create React App"}
+{"topicId":5320,"topicTitle":"Dulpicate classes error when adding SendBirdDesk with SendbirdUIKit"}
+{"topicId":5312,"topicTitle":"currentChannel is always null in UIKit React SDK"}
+{"topicId":5290,"topicTitle":"Customizing React Message Display"}
+{"topicId":1741,"topicTitle":"Is anyone else getting a SendbirdError: Invalid parameter error just by using the ChannelList component?"}
+{"topicId":5245,"topicTitle":"Not getting call back!"}
+{"topicId":5231,"topicTitle":"The photo detailed view missing close button issue in open channel (user click photo in message)"}
+{"topicId":5192,"topicTitle":"ChannelListUI is not working - uikit v3"}
+{"topicId":5050,"topicTitle":"React application from sendbird-uikit doesn't work"}
+{"topicId":5107,"topicTitle":"MessageSearch module missing onCloseClick ts declaration"}
+{"topicId":5174,"topicTitle":"Show Loader while loading the channels for the first time"}
+{"topicId":5171,"topicTitle":"Sendbird iOS UIKit with custom api's"}
+{"topicId":5106,"topicTitle":"Change the Channel List VC Navigationbar Color in Dark Mode"}
+{"topicId":5159,"topicTitle":"React-Naitve : Sendbird do not send 'notification' parameter in push notification"}
+{"topicId":5136,"topicTitle":"iOS UIKit v3 docs errata"}
+{"topicId":5023,"topicTitle":"Historical User Joined Channel Event Information for a Given Group Channel?"}
+{"topicId":4986,"topicTitle":"Uikit-react v3"}
+{"topicId":4964,"topicTitle":"Channels does not load in first run"}
+{"topicId":2988,"topicTitle":"SendBirdUIKit iOS don't send image when taking it from camera"}
+{"topicId":5036,"topicTitle":"Scroll to message in SBUChannelViewController"}
+{"topicId":5016,"topicTitle":"GroupChannel 방나가기 했을 때"}
+{"topicId":4995,"topicTitle":"Custom server location"}
+{"topicId":4999,"topicTitle":"React UIKit dateLocale, stringSet don't work as I expected"}
+{"topicId":4998,"topicTitle":"Mobile chat ui"}
+{"topicId":4970,"topicTitle":"How do I generate thumbnails when using UIkit?"}
+{"topicId":4915,"topicTitle":"App freezes for a moment after clicking back on ChannelActivity"}
+{"topicId":4975,"topicTitle":"dateLocale, stringSet이 기대한대로 동작하지 않습니다"}
+{"topicId":4956,"topicTitle":"Can't edit multiline messages from dashboard"}
+{"topicId":4951,"topicTitle":"Search Feature in Users List Modal in UIKit"}
+{"topicId":4938,"topicTitle":"channelProvider property: channelUrl error (ui kits React v3)"}
+{"topicId":4931,"topicTitle":"How to disable the features like adding new member to the channel and how to disable the back button?"}
+{"topicId":4928,"topicTitle":"Android Sample sdk version 1.9.0 Bluetooth doesn't work"}
+{"topicId":4863,"topicTitle":"Crash during reply message"}
+{"topicId":4772,"topicTitle":"Changing MessageList colors programmatically"}
+{"topicId":4823,"topicTitle":"SendBirdUIKit's MessageInputView state value update event issue"}
+{"topicId":4818,"topicTitle":"기존 SendBirdCall 사용하다가 UIKit 적용 시 문제"}
+{"topicId":4811,"topicTitle":"Disable creation of new account if user_id not found during connect"}
+{"topicId":3880,"topicTitle":"How can you send voice messages/notes?"}
+{"topicId":4808,"topicTitle":"Sendbird UI Kit v3 channel not displaying data"}
+{"topicId":4796,"topicTitle":"Is it possible to disable camera attachments in SBUOpenChannelViewController?"}
+{"topicId":4794,"topicTitle":"userDidExit and userDidLeave never calling for SBUOpenChannelViewController"}
+{"topicId":4793,"topicTitle":"How to receive notification when closing SBUOpenChannelViewController?"}
+{"topicId":4789,"topicTitle":"Switch to disable notifications does not work"}
+{"topicId":4780,"topicTitle":"Error when integertion with NextJs"}
+{"topicId":4722,"topicTitle":"Channel list pagination"}
+{"topicId":4747,"topicTitle":"서로 다른 플랫폼 간 1:1 chat 구현이 가능한가요?"}
+{"topicId":4617,"topicTitle":"Is there any problems using Korean languages in UIKit?"}
+{"topicId":4734,"topicTitle":"Is there any guideline on building a notification system for browsers via Sendbird webhook?"}
+{"topicId":4719,"topicTitle":"Sendbird Initial Push Notification App Open Stuck or Freeze due to ZustandPersistGate"}
+{"topicId":4650,"topicTitle":"UIKit 2.2.4 에서 couldn't retrieve channel 이라고 Toast 가 뜹니다"}
+{"topicId":4707,"topicTitle":"Show translated message in a message cell"}
+{"topicId":4684,"topicTitle":"그룹채널 생성시 앱 어트리뷰트에 allow_super_group_channel 설정"}
+{"topicId":2948,"topicTitle":"Message threading UI components"}
+{"topicId":4375,"topicTitle":"Mark_as_delivered endpoint error"}
+{"topicId":4538,"topicTitle":"iOS push notification is not properly generated (?)"}
+{"topicId":4452,"topicTitle":"Unable to Group Custom Messages with UIKit v3"}
+{"topicId":4593,"topicTitle":"Not receiving push notifications in iOS after registering tokem"}
+{"topicId":1444,"topicTitle":"Building Project in an M1 Mac mini"}
+{"topicId":4568,"topicTitle":"How to get loading status of a channel list"}
+{"topicId":4553,"topicTitle":"SendBirdUIKit not working for Xcode 12 (Swift 5.4.2)"}
+{"topicId":4548,"topicTitle":"Questions about UIKit for React"}
+{"topicId":4536,"topicTitle":"Calls integration to Chat"}
+{"topicId":4500,"topicTitle":"UIKit in React Native"}
+{"topicId":4506,"topicTitle":"How to freeze channel/mute member/ban member via react UI Kit"}
+{"topicId":4425,"topicTitle":"Alphabetical sorting of Members to Invite to channel"}
+{"topicId":4516,"topicTitle":"[ios] how to remove \"Notifications\" and \"Leave channel\" Menu in Channel Information"}
+{"topicId":4444,"topicTitle":"Recat UIKit Image compression"}
+{"topicId":4455,"topicTitle":"Hide Member List Action Button"}
+{"topicId":4437,"topicTitle":"Show media, files, and links of a channel"}
+{"topicId":4377,"topicTitle":"How to showIndicator while loading data in SBUChannelViewController"}
+{"topicId":4418,"topicTitle":"Concurrency calculation"}
+{"topicId":4389,"topicTitle":"Channels Including Super Groups"}
+{"topicId":4417,"topicTitle":"Running the JavaScript Library in a Node Environment?"}
+{"topicId":4172,"topicTitle":"Enhancement: Cursor to Tap"}
+{"topicId":4303,"topicTitle":"Issue in dark mode"}
+{"topicId":4007,"topicTitle":"Customizing the timestamp"}
+{"topicId":4363,"topicTitle":"Reactuikit 이용 관련 질문"}
+{"topicId":4299,"topicTitle":"I'm not edited message but following \"edited\""}
+{"topicId":4310,"topicTitle":"Audio Messages - Have I missed something?"}
+{"topicId":4267,"topicTitle":"Crash when disconnecting from a channel"}
+{"topicId":4238,"topicTitle":"ReactUIkit를 사용하면서 궁금한 점 3가지 있어서 질문드립니다!"}
+{"topicId":1966,"topicTitle":"UIKit Responsive UI"}
+{"topicId":3868,"topicTitle":"`SBUBaseChannelViewController` bug when calling `loadChannel(channelUrl:messageListParams:)`"}
+{"topicId":4283,"topicTitle":"Clarification on ChannelList queries"}
+{"topicId":4287,"topicTitle":"Reconnect after disconnect from sendbird server"}
+{"topicId":4257,"topicTitle":"ChannelList component does not allow hiding the \"new channel\" icon"}
+{"topicId":2291,"topicTitle":"Setting initial channel"}
+{"topicId":3315,"topicTitle":"IncludeEmpty option is re-rendering the ChannelList"}
+{"topicId":4143,"topicTitle":"SBUCoverImageView is empty and doesn't show cover image in SBUChannelSettings ViewController"}
+{"topicId":4247,"topicTitle":"Custom React Input on OpenChannel Throws 400201 Channel Not Found Error"}
+{"topicId":4219,"topicTitle":"Error reply message"}
+{"topicId":4220,"topicTitle":"Difference between plainProfileUrl and profileUrl?"}
+{"topicId":4215,"topicTitle":"Infinity loader on the SBUChannelViewController"}
+{"topicId":4191,"topicTitle":"How to showIndicator while loading data in SBUChannelListViewController"}
+{"topicId":4204,"topicTitle":"욕설 필터(Profanity filter) 문의"}
+{"topicId":4068,"topicTitle":"Reversed Messages"}
+{"topicId":4180,"topicTitle":"채팅 목록에서 프로필 썸네일과 unreadMessageCount 라벨이 깜빡이는 이슈"}
+{"topicId":4173,"topicTitle":"Enhancement: More reaction emojis"}
+{"topicId":4164,"topicTitle":"Is there a UIKit for Flutter?"}
+{"topicId":4160,"topicTitle":"Is there a limit to how many devices can simultaneously connect with one account?"}
+{"topicId":4148,"topicTitle":"Using setMetaDataFilterWithKey to filter group channel list"}
+{"topicId":4109,"topicTitle":"Swipe Right to Dismiss"}
+{"topicId":4123,"topicTitle":"Provide list of responses that user can tap"}
+{"topicId":4047,"topicTitle":"Memory leak issue with subscription"}
+{"topicId":4045,"topicTitle":"How to disconnect from a channel?"}
+{"topicId":4083,"topicTitle":"I need help with customizing the \"UI KIT\" sample source"}
+{"topicId":4050,"topicTitle":"Open Source"}
+{"topicId":4043,"topicTitle":"Add text in message cell without sending it"}
+{"topicId":3975,"topicTitle":"Crash implementing CustomChannelSettings"}
+{"topicId":3943,"topicTitle":"FontSet for React UIKit"}
+{"topicId":3426,"topicTitle":"Leave Channel method overriding"}
+{"topicId":3957,"topicTitle":"ContextMenu glitching on message longpress"}
+{"topicId":3971,"topicTitle":"Member(operator) removed from group directly on unbanning after banned previously"}
+{"topicId":3951,"topicTitle":"I want to be notified when someone sends a message in Open Channel"}
+{"topicId":3934,"topicTitle":"[Android UIKIT 2.2.3] Change channelheader in groupchannel"}
+{"topicId":3848,"topicTitle":"Reset the SBUChannelListViewController after user changed"}
+{"topicId":3929,"topicTitle":"Notification push title and message text limit?"}
+{"topicId":3908,"topicTitle":"App crashes when attaching files or taking photos on custom UiKit"}
+{"topicId":3886,"topicTitle":"Customizing user select component when creating new channel"}
+{"topicId":3877,"topicTitle":"While using the UIkit is there a way to upload files to my server, instead of sendbird's"}
+{"topicId":2589,"topicTitle":"[TypeScript] Wrong type definition in OpenChannel props"}
+{"topicId":3116,"topicTitle":"Error when start demo app"}
+{"topicId":3887,"topicTitle":"Using renderMessageInput to render own message input prevents user's sent messages from being inserted in conversation"}
+{"topicId":2255,"topicTitle":"onMessageReceived for channelList in React"}
+{"topicId":3741,"topicTitle":"Profile photos aren't visible"}
+{"topicId":3857,"topicTitle":"How can we disable chat box"}
+{"topicId":3850,"topicTitle":"DataBinderMapperImpl class not found"}
+{"topicId":3624,"topicTitle":"Disable attachment button in channels"}
+{"topicId":3742,"topicTitle":"Channel is not appear after creating"}
+{"topicId":3510,"topicTitle":"Warning: Invalid prop `renderChatItem`"}
+{"topicId":2822,"topicTitle":"SendBirdException code=800220, message=Failed to find configured root that contains"}
+{"topicId":3797,"topicTitle":"How to handle a case on iOS when user changes their username?"}
+{"topicId":3802,"topicTitle":"Wrong read_ts after sending message"}
+{"topicId":3736,"topicTitle":"Change modal overlay color when showing DialogView"}
+{"topicId":3772,"topicTitle":"How to set dynamic values to SendBirdUIKit.ThemeMode"}
+{"topicId":3410,"topicTitle":"Messages screen freezing"}
+{"topicId":3690,"topicTitle":"java.lang.ClassCastException: com.sendbird.android.User cannot be cast to com.sendbird.android.Member"}
+{"topicId":3650,"topicTitle":"UIKit Android Push Notifications no device token"}
+{"topicId":3639,"topicTitle":"How to get group channel \"Data\" field in push notification"}
+{"topicId":3656,"topicTitle":"Can't make first connection — Connection Canceled"}
+{"topicId":1441,"topicTitle":"How to remove attachments button from messageInputView"}
+{"topicId":3602,"topicTitle":"Whether to use UIKit or just use the Chat API and build UI yourself from scratch?"}
+{"topicId":3449,"topicTitle":"When I try to add SendBird UIKit using SPM I get Multiple commands produce issue"}
+{"topicId":3503,"topicTitle":"Access an unAuthorize chat image using the Javascript SDK"}
+{"topicId":3591,"topicTitle":"Sendbird Chat API vs Sendbird UIKit (React)"}
+{"topicId":3436,"topicTitle":"UI Bug in PhotoViewFragment"}
+{"topicId":3566,"topicTitle":"SBUCoverImageView flashes when updating"}
+{"topicId":2924,"topicTitle":"SBUChannelListViewController \"Something went wrong\""}
+{"topicId":3499,"topicTitle":"안녕하세요 uikit 사용중에 custom 관련하여 문의 드립니다"}
+{"topicId":2326,"topicTitle":"Reactions and Replies are not showing for Super Group"}
+{"topicId":3240,"topicTitle":"Xcode can't autocomplete"}
+{"topicId":3429,"topicTitle":"Crash in sendbird uikit ChannelFragment"}
+{"topicId":3424,"topicTitle":"SendBirdUIKit 2.2.0 Runtime exception"}
+{"topicId":3189,"topicTitle":"Too many classes are inaccessible"}
+{"topicId":3184,"topicTitle":"How to change the channelListQuery after initialization?"}
+{"topicId":3387,"topicTitle":"Last seen in UIkit"}
+{"topicId":2952,"topicTitle":"UI Kit's image library picker not working on iOS Simulator"}
+{"topicId":3205,"topicTitle":"Sendbirduikit Swift Package Manager"}
+{"topicId":3213,"topicTitle":"Invalid Parameter Exception"}
+{"topicId":3211,"topicTitle":"Subclass MessageInputView in UIKit iOS SDK"}
+{"topicId":3200,"topicTitle":"Can I customize Image No channels?"}
+{"topicId":3178,"topicTitle":"React UI KIT error useHandleRecconect"}
+{"topicId":3284,"topicTitle":"Bypass multiple Channel screen for a 1:1 chat in Android UI kit"}
+{"topicId":3255,"topicTitle":"How can we have some channels always show (even when empty) and others not?"}
+{"topicId":3262,"topicTitle":"Can't compile in Gatsby due to SSR, change suggested"}
+{"topicId":3192,"topicTitle":"Does sendbird have UIKit for Windows?"}
+{"topicId":2981,"topicTitle":"No support for RTL direction (arabic)"}
+{"topicId":3130,"topicTitle":"Menu text of message doesn't appear"}
+{"topicId":1802,"topicTitle":"Reaction issues with SBUChannelViewController"}
+{"topicId":3149,"topicTitle":"UIKit allowed attachment file types"}
+{"topicId":3134,"topicTitle":"All Message marked as outgoing in Sendbird React App Component"}
+{"topicId":3097,"topicTitle":"앱 기본 백버튼으로 종료시.. SendBirdUIKit.disconnect"}
+{"topicId":3078,"topicTitle":"Bundle arguments in ChannelListFragment"}
+{"topicId":2925,"topicTitle":"SendBirdUIKit.SBUMessageInputView layout warnings"}
+{"topicId":3033,"topicTitle":"Beginner friendly documentation"}
+{"topicId":2731,"topicTitle":"Please add additioinal props to renderChatItem"}
+{"topicId":3026,"topicTitle":"Native libraries in build after sendbird integration"}
+{"topicId":2658,"topicTitle":"SBUOpenChannelViewController/SBUChannelViewController keyboard issue"}
+{"topicId":2960,"topicTitle":"Cannot find module 'sendbird-uikit'"}
+{"topicId":2922,"topicTitle":"Is it possible to use message threading with iOS UIKit?"}
+{"topicId":2951,"topicTitle":"Mentions using UI Kit for iOS"}
+{"topicId":2940,"topicTitle":"Custom send file message"}
+{"topicId":2950,"topicTitle":"SBUChannelViewController navigationBar"}
+{"topicId":2687,"topicTitle":"SendBird UiKit using androidx.core.content.FileProvider directly"}
+{"topicId":2939,"topicTitle":"Can we customize the MessageInputView component?"}
+{"topicId":2941,"topicTitle":"How to get the parent message sender in uikit?"}
+{"topicId":2912,"topicTitle":"안녕하세요 커스텀한 channelListFragment navigation으로 이동 관련 문의"}
+{"topicId":2339,"topicTitle":"Does The UIKit Support Mentions Out of the Box?"}
+{"topicId":2910,"topicTitle":"SendBird-iOS-Swift project is broken in Xcode 12"}
+{"topicId":2072,"topicTitle":"About Custom UserMessageCell"}
+{"topicId":2906,"topicTitle":"안녕하세요 uikit 사용에서 한글화"}
+{"topicId":2816,"topicTitle":"SBUOpenChannelViewController.rightBarButton is never changed"}
+{"topicId":2795,"topicTitle":"Group multiple images in a grid for group channels"}
+{"topicId":2736,"topicTitle":"Update Chat UI"}
+{"topicId":2637,"topicTitle":"getTotalUnreadMessageCount is giving me 0 while chat list has unread chats"}
+{"topicId":2791,"topicTitle":"Android 11 request write external permission present"}
+{"topicId":2784,"topicTitle":"Encountering type error when I try to send a message with a custom renderMessageInput component"}
+{"topicId":2778,"topicTitle":"Customizing Loading Spinner Icon, 'No Messages' Icon/text, etc"}
+{"topicId":2709,"topicTitle":"User Online Status is not showing to other User"}
+{"topicId":2718,"topicTitle":"Can i multilingualize top joined Message?"}
+{"topicId":2667,"topicTitle":"Log level not respected"}
+{"topicId":2603,"topicTitle":"Terminating app due to uncaught exception 'Sendbird Exception', reason: 'Database error"}
+{"topicId":2599,"topicTitle":"Super Groups not showing in Channel List"}
+{"topicId":2607,"topicTitle":"Supported file types"}
+{"topicId":2590,"topicTitle":"Scrolling behavior on fetching old messages"}
+{"topicId":2580,"topicTitle":"Can Chat UIKit be used with React Native?"}
+{"topicId":354,"topicTitle":"Sendbird UIKit not showing private chat"}
+{"topicId":2502,"topicTitle":"Can not receive"}
+{"topicId":2513,"topicTitle":"Rare but annoying issue - (No name) for Nick Name in the IOS UIKit - help NEEDED!"}
+{"topicId":2465,"topicTitle":"ChannelFragment not refreshing list of messages"}
+{"topicId":2480,"topicTitle":"Can't use \"https://repo.sendbird.com/public/maven\"?"}
+{"topicId":2449,"topicTitle":"Private Channel Preview UI Component"}
+{"topicId":2435,"topicTitle":"Do mentions work with nickname or the userid?"}
+{"topicId":2424,"topicTitle":"Day Dividers when using renderChatItem of UI Kit"}
+{"topicId":2392,"topicTitle":"Next JS React Hooks and Sendbird UI Kit leads to mismatching versions of React"}
+{"topicId":2382,"topicTitle":"Please help me on this"}
+{"topicId":2387,"topicTitle":"Audio and Video message type"}
+{"topicId":2384,"topicTitle":"UIKit Javascript : Fileviewer Header width overflows and not scrollable"}
+{"topicId":2011,"topicTitle":"How to hide \"top-right icon on the header\" of ChannelList & Channel"}
+{"topicId":2364,"topicTitle":"How to disable the info button"}
+{"topicId":2310,"topicTitle":"SBDGroupChannel.createChannel creates a channel with a nil nickame"}
+{"topicId":2355,"topicTitle":"GroupChannel"}
+{"topicId":2328,"topicTitle":"Cannot set the photo for a <Channel/> component"}
+{"topicId":2322,"topicTitle":"Hide Edit button for users"}
+{"topicId":700,"topicTitle":"Sendbird UIKit: subscribe for new messages for user?"}
+{"topicId":2292,"topicTitle":"Modifying message preview in ChannelList preview"}
+{"topicId":2284,"topicTitle":"How Do I Hook Onto The Incoming Messaging Event When Using UIKit?"}
+{"topicId":2283,"topicTitle":"Group Channel user list"}
+{"topicId":1667,"topicTitle":"Is there a way to use renderChatItem with the default ui and just add custom class?"}
+{"topicId":2282,"topicTitle":"Error: loading the UiKit in React native"}
+{"topicId":2273,"topicTitle":"Chat Elements Refresh When Tabbing Back To Page?"}
+{"topicId":1437,"topicTitle":"Element is not defined"}
+{"topicId":2267,"topicTitle":"Where Are Custom Components Being Imported From?"}
+{"topicId":2236,"topicTitle":"[Android UIKIT] MIME type application/octet-stream cannot be inserted into content://media/external/images/media"}
+{"topicId":2225,"topicTitle":"How to fetch and join public group channels using Javascript SDK"}
+{"topicId":2263,"topicTitle":"Can we use Sendbird UIkit in React native application?"}
+{"topicId":2257,"topicTitle":"React UIKit - Typing status on channel list"}
+{"topicId":2229,"topicTitle":"UIViewControllers transitions / flow control"}
+{"topicId":2221,"topicTitle":"Community Chat type indicator"}
+{"topicId":2193,"topicTitle":"[UIKit] TextField goes up to the top when user taps the textfield"}
+{"topicId":2196,"topicTitle":"Is there any way to get the unread message count in the open channel-> community Chat?"}
+{"topicId":2173,"topicTitle":"Community Chat"}
+{"topicId":2181,"topicTitle":"Open Channel-> community"}
+{"topicId":2169,"topicTitle":"Does anyone have the updated sketch files that incorporate calls?"}
+{"topicId":2062,"topicTitle":"How can change dateFormat in channel?"}
+{"topicId":2092,"topicTitle":"Sendbird-UIKit User Search in Group creation"}
+{"topicId":1854,"topicTitle":"Is it possible to use \"Mentions\" with the Channel component"}
+{"topicId":2130,"topicTitle":"SendBird.min.js:3519 Uncaught TypeError: l.isMatchingType is not a function"}
+{"topicId":2074,"topicTitle":"Issue registering a custom message cell"}
+{"topicId":2048,"topicTitle":"Enable alwaysBounceVertical in channel views"}
+{"topicId":2047,"topicTitle":"Enabling read receipts using Sendbird UIKit"}
+{"topicId":2002,"topicTitle":"SBUMessageCellThemes not works correctly after v2.1.0"}
+{"topicId":2037,"topicTitle":"NPE when opening a ChannelActivity or a ChannelFragment"}
+{"topicId":1929,"topicTitle":"Not possible to override SBUChannelCell for custom data logic"}
+{"topicId":2018,"topicTitle":"SBUChannelListViewController filtered by customType showing group channels with different customTypes when the new chat is created"}
+{"topicId":1993,"topicTitle":"TimelineView message changes after scrolling upwards and coming back to original position"}
+{"topicId":1945,"topicTitle":"1:1 채팅 채널에서 채널명 변경 이슈"}
+{"topicId":1908,"topicTitle":"Is there way to hide MediaResourceType.document in actionSheet of messageInputView?"}
+{"topicId":1907,"topicTitle":"Wrong image is being displayed instead of More Button in emoji modal view"}
+{"topicId":783,"topicTitle":"Does messaging UI-kit work with react-native?"}
+{"topicId":1905,"topicTitle":"Next JS+ React JS 17 error"}
+{"topicId":1760,"topicTitle":"Memory leak when removing ChannelFragment"}
+{"topicId":1902,"topicTitle":"Message appears to get deleted right after sending it"}
+{"topicId":1798,"topicTitle":"Using large titles on Navigation Bar"}
+{"topicId":1810,"topicTitle":"Broken debugger with SendBirdUIKit"}
+{"topicId":1841,"topicTitle":"Is it possible to use message threading with React UIKit Component"}
+{"topicId":1838,"topicTitle":"Using SBUChannelListViewController to display SBDSKTicket objects?"}
+{"topicId":1821,"topicTitle":"Change the color of the navbar button in the channel creation"}
+{"topicId":1825,"topicTitle":"Creating a new group channel with the React ChannelList component"}
+{"topicId":1491,"topicTitle":"Constraint warnings when pushing SBUChannelViewController"}
+{"topicId":1818,"topicTitle":"Hook for tap on a video message using the SBUChannelViewController?"}
+{"topicId":1808,"topicTitle":"Calls chat integration with UIKit"}
+{"topicId":1530,"topicTitle":"Error in Android Gradle Plugin 4.1.1"}
+{"topicId":1790,"topicTitle":"Reaction icons don't show up"}
+{"topicId":1777,"topicTitle":"Unread count of all messages"}
+{"topicId":1231,"topicTitle":"SendBirdException: User doesn't exist or has been deleted"}
+{"topicId":1708,"topicTitle":"Sending message on mobile keeps closing the virtual keyboard"}
+{"topicId":1649,"topicTitle":"MessageInputView question?"}
+{"topicId":1654,"topicTitle":"SBUOpenChannelBaseMessageCell overlay"}
+{"topicId":1524,"topicTitle":"Remove plus button (\"+\") on footer of screen"}
+{"topicId":1381,"topicTitle":"UIKit error when hiding <SBConversation/> tag"}
+{"topicId":1479,"topicTitle":"How to remove user nicknames from SBUChannelViewController"}
+{"topicId":1466,"topicTitle":"Crash when instantianting a new theme"}
+{"topicId":1467,"topicTitle":"Flipped cell when overriding tableView cellForRow method"}
+{"topicId":1438,"topicTitle":"Customize Media Attachment's ActionSheet"}
+{"topicId":1439,"topicTitle":"Unable to add image without tint into SBUMessageInputView"}
+{"topicId":1431,"topicTitle":"Error inflating class com.sendbird.uikit.widgets.AppBarView"}
+{"topicId":1397,"topicTitle":"SendBirdUI UIKit - ChannelsListViewController"}
+{"topicId":1181,"topicTitle":"In Public channel shows wrong members profile pictures"}
+{"topicId":1167,"topicTitle":"SBUChannelViewController cannot be opened in V1.2.5"}
+{"topicId":1244,"topicTitle":"I18n support - V1.3.0-rc.4"}
+{"topicId":1094,"topicTitle":"Long messages cropped on Production App -- V1.1.2"}
+{"topicId":1069,"topicTitle":"Sendbird UiKIT"}
+{"topicId":1012,"topicTitle":"Sendbird UiKIT duplicate channels"}
+{"topicId":983,"topicTitle":"How can I override the css of internal Sendbird classes?"}
+{"topicId":865,"topicTitle":"SBUChannelListViewController filtered by customType showing group channels with different customTypes when the message is received"}
+{"topicId":809,"topicTitle":"Uikit integration with objetive -c"}
+{"topicId":827,"topicTitle":"Use Events in UiKit"}
+{"topicId":570,"topicTitle":"setTapGestureHandler and setLongTabGestureHandler do not trigger when we register different cells for user messages and file messages"}
+{"topicId":711,"topicTitle":"UIKIt Channel and User Filters"}
+{"topicId":745,"topicTitle":"How to Disable/Enable edit and delete option of chat message while using with SendBirdUIKit?"}
+{"topicId":680,"topicTitle":"How to enabled translation using react UI Kit"}
+{"topicId":546,"topicTitle":"Sendbird UIKit memory leaks"}
+{"topicId":677,"topicTitle":"React/Javascript UIKit survey - styling / theming"}
+{"topicId":670,"topicTitle":"How to restrict create new group chat from React UI Kit"}
+{"topicId":630,"topicTitle":"V.1.0.7 - propTypes warnings"}
+{"topicId":607,"topicTitle":"Minor package version incompatibility?"}
+{"topicId":583,"topicTitle":"Long messages cropped on Production App"}
+{"topicId":416,"topicTitle":"Hide setting button in SBUChannelViewController"}
+{"topicId":395,"topicTitle":"Sendbird UIKit iOS crash after send message"}
+{"topicId":397,"topicTitle":"Chat list does not refresh after the user removes a chat"}
+{"topicId":406,"topicTitle":"Where to find Public Repo for Sendbird UI Kit React"}
+{"topicId":348,"topicTitle":"Showing links within UserMessages in React UIKit"}
+{"topicId":384,"topicTitle":"Unable to display React Sendbird UIKit Component"}
+{"topicId":232,"topicTitle":"SBUChannelList - Message Cover Image"}
